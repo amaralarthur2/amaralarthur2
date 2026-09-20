@@ -40,6 +40,8 @@ Ola 👋 me chamo Arthur Amaral, tenho 21 anos e atualmente cursando ciência da
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
+<br/>
 
 # Linguagens que quero aprender🤖:
 
