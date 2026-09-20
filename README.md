@@ -43,7 +43,7 @@ Ola 👋 me chamo Arthur Amaral, tenho 21 anos e atualmente cursando ciência da
 <br/>
 <br/>
 
-# Linguagens que quero aprender🤖:
+# Linguagens que quero aprender📖:
 
 <img 
     align="left" 
@@ -77,6 +77,5 @@ Ola 👋 me chamo Arthur Amaral, tenho 21 anos e atualmente cursando ciência da
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
