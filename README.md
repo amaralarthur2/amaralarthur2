@@ -1,5 +1,8 @@
-### Olá ! 👋 Me chamo Arthur Amaral Correia de ALmeida
+#Arthur Amaral
 
+Ola 👋 me chamo Arthur Amaral, tenho 21 anos e atualmente cursando ciência da computação na Universidade Estadual de Santa Cruz.
+
+---
 
 # Linguagens que estou estudando🤖: 
 <img 
